@@ -1,0 +1,24 @@
+{
+  "name": "random-str-msg-jim",
+  "version": "1.0.0",
+  "description": "Random string messages - Ejercicio del curso NMP.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jimmycoespinosa/random-str-msg-jim.git"
+  },
+  "keywords": [],
+  "author": "Alexander Espinosa <jimmycoespinosa@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jimmycoespinosa/random-str-msg-jim/issues"
+  },
+  "homepage": "https://github.com/Jimmycoespinosa/random-str-msg-jim#readme",
+  "bin":{
+      "random-str-msg":"./bin/global.js"
+  },
+  "preferGlobal": true
+}
